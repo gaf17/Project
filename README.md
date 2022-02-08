@@ -1,2 +1,3 @@
-# Projects
-Examples of past work and side projects done by yours truly.
+# Workshops
+
+Workshops I've hosted at FSU's Innovation Hub
